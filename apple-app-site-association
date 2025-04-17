@@ -5,7 +5,7 @@
             {
                 "appID": "95CYXFP5R6.com.mindsleep.xinmian",
                 "paths": [
-                    "*"
+                    "/sleep/*"
                 ]
             }
         ]
